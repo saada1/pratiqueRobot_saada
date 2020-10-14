@@ -29,3 +29,6 @@ ${url}=       http://omayo.blogspot.com/
      Select From List By Label    id=multiselect1     Audi   
      Select From List By Label    id=multiselect1     Swift               
      Close Browser 
+     
+CT_003
+    Log To Console    github_pratique    
